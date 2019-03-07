@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "815067852722",
+    "firebase_url": "https://crimereporter1-11936.firebaseio.com",
+    "project_id": "crimereporter1-11936",
+    "storage_bucket": "crimereporter1-11936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815067852722:android:7ea699597403c6b6",
+        "android_client_info": {
+          "package_name": "com.example.crimereporter1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815067852722-o5lih7s5rce99ifiillvl91s6q55s476.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crimereporter1",
+            "certificate_hash": "1eee0045cf763c9fbe7de92b7aa78e3e32272d30"
+          }
+        },
+        {
+          "client_id": "815067852722-gf20k389heus6gfteb720a68955qutj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB90RQOXmMTje5tvG6NuUXxtOopZl3HgDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815067852722-gf20k389heus6gfteb720a68955qutj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
